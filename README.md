@@ -1,4 +1,4 @@
-# Data Engineering Capstone Project
+# Data Engineering. Building Data Lake on S3
 
 
 ## Scope of the project and datasets
